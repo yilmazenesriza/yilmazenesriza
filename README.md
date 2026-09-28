@@ -18,10 +18,10 @@ Welcome to my GitHub profile! I am a software engineer focused on building robus
 | Category | Technologies |
 | :--- | :--- |
 | **Back-End Development** | Java, Spring Framework & Spring Boot, Spring Web, Spring Security & JWT, Hibernate, C/C++, C#, Python, PHP |
-| **Database Management** | Oracle, PostgreSQL, SQL Optimization, Toad for Oracle |
-| **Front-End Development** | JavaScript, React, HTML5, CSS3 |
-| **DevOps & Tools** | Git, IBM Rational ClearCase, IBM Rational ClearQuest, Maven, Linux, Apache Tomcat, JUnit 5 |
-| **AI Productivity** | Claude, DeepSeek, Cursor (Token Management & API Security) |
+| **Database Management** | Oracle, PostgreSQL |
+| **Front-End Development** | JavaScript, React, HTML, CSS |
+| **DevOps & Tools** | Git, IBM Rational ClearCase, IBM Rational ClearQuest, Maven, Linux, Apache Tomcat, Toad for Oracle, JUnit 5 |
+| **AI Tools** | Claude, DeepSeek, Cursor |
 
 ---
 
