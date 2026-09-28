@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I am a software engineer focused on building robus
 ---
 
 ### 🚀 About Me
-- 💼 Currently working as a **Full Stack Developer** with deep expertise in the Healthcare IT / Hospital Information Systems (HIS) domain.
-- 🛠️ Specialized in **Java / Spring Boot** ecosystems, secure API development (JWT), and **Oracle/PostgreSQL** database optimization.
+- 💼 **Actively looking for new opportunities** as a Full Stack Developer.
+- 🛠️ Specialized in **Java / Spring Boot** ecosystems, secure API development (JWT), and **Oracle/PostgreSQL** database operations.
 - 🌍 Experienced in high-pressure, international mission-critical deployments (including on-site supervision in Sudan).
 - 🎖️ Successfully completed military service as a **Reserve Officer**, managing engineering and technical documentation workflows.
 
@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I am a software engineer focused on building robus
 ---
 
 ### 🔒 Corporate Work & NDA Notice
-> ⚠️ **Important Note on Activity:** Over the last 3+ years, my primary engineering focus has been on enterprise-level architectures, national healthcare infrastructures, and confidential R&D projects. Due to strict **Non-Disclosure Agreements (NDAs)** and enterprise security protocols, these proprietary source codes are hosted on private company repositories (IBM ClearCase/Git environments) and cannot be open-sourced on my public GitHub.
+> ⚠️ **Important Note on Activity:** Over the last 3+ years, my primary engineering focus has been on enterprise-level architectures, national healthcare infrastructures, and confidential R&D projects. Due to strict **Non-Disclosure Agreements (NDAs)** and enterprise security protocols, these proprietary source codes are hosted on private company repositories and cannot be open-sourced on my public GitHub.
 
 ---
 
