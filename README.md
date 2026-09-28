@@ -40,6 +40,6 @@ Welcome to my GitHub profile! I am a software engineer focused on building robus
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+- 💼 **LinkedIn:** [://[linkedin.com](https://www.linkedin.com/in/enesrizayilmaz/)](https://www.://linkedin.com)
 - ✉️ **Email:** [yilmazenesriza@gmail.com](mailto:yilmazenesriza@gmail.com)
 - 📍 **Location:** İstanbul, TURKEY
