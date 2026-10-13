@@ -1,7 +1,7 @@
 # Hi there, I'm ENES RIZA YILMAZ! 👋
 ### Full Stack Developer
 
-Welcome to my GitHub profile! I am a software engineer focused on building robust back-end systems, scalable web applications, and secure enterprise integrations. With a background in Electrical & Electronics Engineering, I combine analytical problem-solving with modern software architecture patterns.
+Welcome to my GitHub profile! I am a Full Stack Developer focused on building robust back-end systems, scalable web applications, and secure enterprise integrations. With a background in Electrical & Electronics Engineering, I combine analytical problem-solving with modern software architecture patterns.
 
 ---
 
