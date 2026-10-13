@@ -1,4 +1,4 @@
-# Hi there, I'm Enes Riza YILMAZ! 👋
+# Hi there, I'm ENES RIZA YILMAZ! 👋
 ### Full Stack Developer
 
 Welcome to my GitHub profile! I am a software engineer focused on building robust back-end systems, scalable web applications, and secure enterprise integrations. With a background in Electrical & Electronics Engineering, I combine analytical problem-solving with modern software architecture patterns.
@@ -17,11 +17,12 @@ Welcome to my GitHub profile! I am a software engineer focused on building robus
 
 | Category | Technologies |
 | :--- | :--- |
-| **Back-End Development** | Java, Spring Framework & Spring Boot, Spring Web, Spring Security & JWT, Hibernate, C/C++, C#, Python, PHP |
-| **Database Management** | Oracle, PostgreSQL |
-| **Front-End Development** | JavaScript, React, HTML, CSS |
-| **DevOps & Tools** | Git, IBM Rational ClearCase, IBM Rational ClearQuest, Maven, Linux, Apache Tomcat, Toad for Oracle, JUnit 5 |
-| **AI Tools** | Claude, DeepSeek, Cursor |
+| **Back-End Development** | Java, Spring Boot, Spring Cloud, Spring Data, Spring Security, Spring MVC,
+Hibernate ORM |
+| **Database Management** | Oracle, PostgreSQL, MySQL |
+| **Front-End Development** | HTML, CSS, JavaScript, Bootstrap, React JS |
+| **DevOps & Tools** | Git, Docker, IBM Rational ClearCase, IBM Rational ClearQuest, Linux, Apache Tomcat, Toad for Oracle, JUnit 5, Gradle/Maven |
+| **AI Tools** | Claude, Cursor |
 
 ---
 
