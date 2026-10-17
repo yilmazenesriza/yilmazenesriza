@@ -13,12 +13,12 @@ Welcome to my GitHub profile! I am a Full Stack Developer focused on building ro
 
 ---
 
-### 💼 Technical Toolkit
+### 💼 Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
 | **Back-End Development** | Java, Spring Boot, Spring Cloud, Spring Data, Spring Security, Spring MVC, Hibernate ORM |
-| **Database Management** | Oracle, PostgreSQL, MySQL |
+| **Database & Search Engines** | Oracle, PostgreSQL, MySQL, Elasticsearch |
 | **Front-End Development** | HTML, CSS, JavaScript, Bootstrap, React JS |
 | **DevOps & Tools** | Git, Docker, IBM Rational ClearCase, IBM Rational ClearQuest, Linux, Apache Tomcat, Toad for Oracle, JUnit 5, Gradle/Maven |
 | **AI Tools** | Claude, Cursor |
