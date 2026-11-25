@@ -25,8 +25,7 @@ efficiently resolve complex bugs.
 
 | Category | Technologies |
 | :--- | :--- |
-| **Back-End Development** | Java, Spring Boot, Spring MVC, Spring Data, Spring Security, Spring Cloud, Hibernate, JPA,
-RESTful APIs, Microservices |
+| **Back-End Development** | Java, Spring Boot, Spring MVC, Spring Data, Spring Security, Spring Cloud, Hibernate, JPA, RESTful APIs, Microservices |
 | **Databases & Search Technologies** | PostgreSQL, Oracle SQL, Elasticsearch |
 | **Front-End Development** | React.js, JavaScript, HTML5, CSS3, Bootstrap |
 | **Test** | JUnit 5 |
