@@ -14,7 +14,7 @@ efficiently resolve complex bugs.
 ---
 
 ### 🚀 About Me
-- 💼 **Actively looking for new opportunities** as a Full Stack Developer.
+- 💼 **Actively looking for new opportunities** as a Full Stack Java Developer.
 - 🛠️ Specialized in **Java / Spring Boot** ecosystems, secure API development (JWT), and **Oracle/PostgreSQL** database operations.
 - 🌍 Experienced in high-pressure, international mission-critical deployments (including on-site supervision in Sudan).
 - 🎖️ Successfully completed military service as a **Reserve Officer**, managing engineering and technical documentation workflows.
