@@ -1,7 +1,15 @@
 # Hi there, I'm ENES RIZA YILMAZ! 👋
 ### Full Stack Developer
 
-Welcome to my GitHub profile! I am a Full Stack Developer focused on building robust back-end systems, scalable web applications, and secure enterprise integrations. With a background in Electrical & Electronics Engineering, I combine analytical problem-solving with modern software architecture patterns.
+Welcome to my GitHub profile! 
+
+Full Stack Java Developer with 3 years of experience designing, developing, testing, and supporting enterprise web
+applications in the healthcare sector. Experienced in building microservices using Java and developing user interfaces
+with JavaScript and React. Skilled in integrating external systems through RESTful APIs, managing relational databases
+such as Oracle SQL and PostgreSQL, and implementing efficient search and indexing capabilities with Elasticsearch.
+Experienced in maintaining high availability in Linux production environments and orchestrating containerized
+deployments using Docker. Leverages Cursor AI in daily development workflows to accelerate development cycles and
+efficiently resolve complex bugs.
 
 ---
 
@@ -17,24 +25,21 @@ Welcome to my GitHub profile! I am a Full Stack Developer focused on building ro
 
 | Category | Technologies |
 | :--- | :--- |
-| **Back-End Development** | Java, Spring Boot, Spring Cloud, Spring Data, Spring Security, Spring MVC, Hibernate ORM |
-| **Database & Search Engines** | Oracle, PostgreSQL, MySQL, Elasticsearch |
-| **Front-End Development** | HTML, CSS, JavaScript, Bootstrap, React JS |
-| **DevOps & Tools** | Git, Docker, IBM Rational ClearCase, IBM Rational ClearQuest, Linux, Apache Tomcat, Toad for Oracle, JUnit 5, Gradle/Maven |
-| **AI Tools** | Claude, Cursor |
+| **Back-End Development** | Java, Spring Boot, Spring MVC, Spring Data, Spring Security, Spring Cloud, Hibernate, JPA,
+RESTful APIs, Microservices |
+| **Databases & Search Technologies** | PostgreSQL, Oracle SQL, Elasticsearch |
+| **Front-End Development** | React.js, JavaScript, HTML5, CSS3, Bootstrap |
+| **Test** | JUnit 5 |
+| **Devops & Systems** | Docker, Linux, Apache Tomcat |
+| **Build & Dependency Management** | Maven, Gradle |
+| **BVersion Control** | Maven, Gradle |
+| **AI Tools** | Cursor, Claude |
 
 ---
 
 ### 🔒 Corporate Work & NDA Notice
 > ⚠️ **Important Note on Activity:** Over the last 3+ years, my primary engineering focus has been on enterprise-level architectures, national healthcare infrastructures, and confidential R&D projects. Due to strict **Non-Disclosure Agreements (NDAs)** and enterprise security protocols, these proprietary source codes are hosted on private company repositories and cannot be open-sourced on my public GitHub.
 
----
-
-### 🛠️ Key Project Highlights
-
-*   **CPAS (Central Physician Appointment System) API Integration:** Spearheaded the end-to-end integration of the Turkish National Central Physician Appointment System (locally known as MHRS) web services into core HIS platforms using robust HTTP methods and real-time data mapping.
-*   **Nyala Hospital HIS Deployment (Sudan):** Served as on-site HIS Supervisor at Nyala Sudan-Turkey Training and Research Hospital for 3 months. Directed deployment tracking and provided real-time technical leadership in a dynamic environment.
-*   **Military Infrastructure Planning:** Managed technical documentation, review cycles, and engineering compliance for base-level electrical upgrades under strict military standards.
 
 ---
 
