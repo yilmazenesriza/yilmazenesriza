@@ -1,5 +1,5 @@
 # Hi there, I'm ENES RIZA YILMAZ! 👋
-### Full Stack Developer
+### Full Stack Java Developer
 
 Welcome to my GitHub profile! 
 
