@@ -31,7 +31,7 @@ efficiently resolve complex bugs.
 | **Test** | JUnit 5 |
 | **Devops & Systems** | Docker, Linux, Apache Tomcat |
 | **Build & Dependency Management** | Maven, Gradle |
-| **BVersion Control** | Maven, Gradle |
+| **Version Control** | Git |
 | **AI Tools** | Cursor, Claude |
 
 ---
