@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! 
 
-Full Stack Java Developer with 3 years of experience designing, developing, testing, and supporting enterprise web
+Full Stack Java Developer with 3+ years of experience designing, developing, testing, and supporting enterprise web
 applications in the healthcare sector. Experienced in building microservices using Java and developing user interfaces
 with JavaScript and React. Skilled in integrating external systems through RESTful APIs, managing relational databases
 such as Oracle SQL and PostgreSQL, and implementing efficient search and indexing capabilities with Elasticsearch.
